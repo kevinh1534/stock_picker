@@ -1,0 +1,87 @@
+#alpha vantage has good tech indicators
+from alpha_vantage.timeseries import TimeSeries
+from alpha_vantage.techindicators import TechIndicators
+
+#quandl has tons of stock fundamentals
+import quandl
+#getting access to quandl with free api key
+quandl.ApiConfig.api_key = 'XxiyL7yRAjcMqQwxdeDw'
+
+#import plotting stuff
+import matplotlib
+#setting backend
+matplotlib.use('Agg')
+import matplotlib.pyplot as plt
+
+#dealing with pandas so import pandas
+import pandas as pd
+
+data = quandl.get('EOD/MSFT')
+print(type(data))
+
+#goal is to take advantage of multiple theories about long term growth
+#momentum, mean reversion, value investing
+# 1) an established large volume stock has been trending down for a few years
+# 2) past few months has been gaining value
+# 3) p/e ratio still low
+'''
+#initialize 
+ts = TimeSeries(key='CHP5SSEB8WFTD5BW',output_format='pandas')
+ti = TechIndicators(key='CHP5SSEB8WFTD5BW', output_format='pandas')
+ticker = ['schg']
+ger = [.0004]
+buys = []
+sells = []
+
+EMA10_list, meta_data = ti.get_ema(symbol=ticker[0], interval='daily',time_period=10,series_type='high')
+EMA50_list, meta_data = ti.get_ema(symbol=ticker[0], interval='daily',time_period=50,series_type='high')
+
+df_indicators = pd.concat([EMA10_list,EMA50_list],axis=1)
+
+df_indicators.columns = ['EMA10','EMA50']
+
+#plotting
+fig = plt.figure()
+plot = df_indicators.plot()
+fig = plot.get_figure()
+fig.savefig('scripts.png')
+
+
+
+
+
+#analyze
+def ema_action(index):
+        EMA10_list, meta_data = ti.get_ema(symbol=ticker[index], interval='daily',time_period=50,series_type='high')
+        EMA50_list, meta_data = ti.get_ema(symbol=ticker[index], interval='daily',time_period=200,series_type='high')
+
+	EMA50 = EMA50_list.iloc[-1]['EMA']
+	EMA10 = EMA10_list.iloc[-1]['EMA']
+	if EMA10<EMA50:
+                return True
+        else:
+                return False
+
+def rsi_action(index):
+	rsi_list, meta_data = ti.get_rsi(symbol=ticker[index], interval='daily',time_period=10,series_type='high')
+        #if rsi makes a significant move above 30
+        return True
+
+def macd_action(index):
+        macd_list, meta_data = ti.get_rsi(symbol=ticker[index], interval='daily',time_period=10,series_type='high')
+        for i in range(0,8):
+                macd_sum = macd_list.iloc[-1-i]
+        #if macd moves above its own 9day ema
+        return True
+        
+
+def action_query(buys):
+        for i, elem in enumerate(ticker):
+                if (buy_ema(i)== True and buy_rsi(i) == True):
+                        buys.append(ticker[i])
+
+#run
+action_query(buys)
+buy_rsi(0)
+
+'''
