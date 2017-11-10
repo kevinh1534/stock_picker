@@ -1,0 +1,244 @@
+GAL	SPDR® SSgA Global Allocation ETF	$37.31	-0.11 (-0.28%)	0.35%	0.35%	No	PDF	Allocation--50% to 70% Equity	Trade
+INKM	SPDR® SSgA Income Allocation ETF	$33.24	-0.03 (-0.10%)	0.70%	0.70%	No	PDF	Allocation--50% to 70% Equity	Trade
+RLY	SPDR® SSgA Multi-Asset Real Return ETF	$25.30	-0.09 (-0.34%)	0.70%	0.70%	No	PDF	Allocation--50% to 70% Equity	Trade
+CVY	Guggenheim Multi-Asset Income ETF	$21.72	-0.13 (-0.58%)	0.84%	0.92%	No	PDF	Allocation--85%+ Equity	Trade
+BKLN	PowerShares Senior Loan Portfolio	$23.16	-0.05 (-0.22%)	0.65%	0.66%	No	PDF	Bank Loan	Trade
+SRLN	SPDR® Blackstone / GSO Senior Loan ETF	$47.49	-0.02 (-0.04%)	0.70%	0.70%	No	PDF	Bank Loan	Trade
+CQQQ	Guggenheim China Technology ETF	$59.19	-0.10 (-0.17%)	0.70%	0.70%	No	PDF	China Region	Trade
+GXC	SPDR® S&P China ETF	$105.32	-0.77 (-0.73%)	0.59%	0.59%	ETF Select List	PDF	China Region	Trade
+USCI	United States Commodity Index Fund, LP	$40.35	+0.23 (0.57%)	1.03%	1.03%	No	PDF	Commodities Broad Basket	Trade
+GCC	WisdomTree Continuous Commodity Index Fund	$18.99	+0.05 (0.26%)	0.75%	0.75%	No	PDF	Commodities Broad Basket	Trade
+UNL	United States 12 Month Natural Gas Fund, LP	$10.12	+0.09 (0.89%)	0.90%	1.65%	No	PDF	Commodities Energy	Trade
+USL	United States 12 Month Oil Fund, LP	$18.28	-0.08 (-0.44%)	0.72%	0.72%	No	PDF	Commodities Energy	Trade
+BNO	United States Brent Oil Fund, LP	$15.39	-0.12 (-0.77%)	0.90%	1.07%	ETF Select List	PDF	Commodities Energy	Trade
+UGA	United States Gasoline Fund, LP	$29.42	-0.23 (-0.78%)	0.75%	1.12%	No	PDF	Commodities Energy	Trade
+CPER	United States Copper Index Fund, LP	$20.40	+0.15 (0.73%)	0.80%	4.44%	No	PDF	Commodities Industrial Metals	Trade
+PALL	ETFS Physical Palladium Shares	$91.51	-1.62 (-1.74%)	0.60%	0.60%	No	PDF	Commodities Precious Metals	Trade
+PPLT	ETFS Physical Platinum Shares	$88.54	+0.25 (0.28%)	0.60%	0.60%	No	PDF	Commodities Precious Metals	Trade
+GLTR	ETFS Physical Precious Metals Basket Shares	$64.02	+0.05 (0.08%)	0.60%	0.60%	ETF Select List	PDF	Commodities Precious Metals	Trade
+SIVR	ETFS Physical Silver Shares	$16.68	+0.06 (0.36%)	0.30%	0.30%	No	PDF	Commodities Precious Metals	Trade
+SGOL	ETFS Physical Swiss Gold Shares	$124.32	+0.26 (0.21%)	0.39%	0.39%	ETF Select List	PDF	Commodities Precious Metals	Trade
+GLDW	SPDR® Long Dollar Gold Trust	$120.24	0.00 (0.00%)	0.50%	0.50%	No	PDF	Commodities Precious Metals	Trade
+RCD	Guggenheim S&P 500® Equal Weight Consumer Discretionary ETF	$93.13	-0.26 (-0.27%)	0.40%	0.40%	No	PDF	Consumer Cyclical	Trade
+JHMC	John Hancock Multifactor Consumer Discretionary ETF	$28.71	+0.11 (0.39%)	0.50%	1.07%	No	PDF	Consumer Cyclical	Trade
+PBS	PowerShares Dynamic Media Portfolio	$27.55	-0.35 (-1.25%)	0.63%	0.63%	No	PDF	Consumer Cyclical	Trade
+RHS	Guggenheim S&P 500® Equal Weight Consumer Staples ETF	$122.58	+0.24 (0.20%)	0.40%	0.40%	No	PDF	Consumer Defensive	Trade
+CROP	IQ Global Agribusiness Small Cap ETF	$35.24	+0.05 (0.14%)	0.76%	0.76%	No	PDF	Consumer Defensive	Trade
+JHMS	John Hancock Multifactor Consumer Staples ETF	$25.91	0.00 (0.02%)	0.50%	1.18%	No	PDF	Consumer Defensive	Trade
+CWB	SPDR® Bloomberg Barclays Convertible Securities ETF	$51.26	-0.20 (-0.39%)	0.40%	0.40%	No	PDF	Convertibles	Trade
+BSCH	Guggenheim BulletShares 2017 Corporate Bond ETF	$22.61	+0.01 (0.04%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+BSCI	Guggenheim BulletShares 2018 Corporate Bond ETF	$21.17	0.00 (0.00%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+BSCK	Guggenheim BulletShares 2020 Corporate Bond ETF	$21.46	-0.01 (-0.03%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+BSCL	Guggenheim BulletShares 2021 Corporate Bond ETF	$21.35	+0.03 (0.14%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+BSCM	Guggenheim BulletShares 2022 Corporate Bond ETF	$21.39	+0.03 (0.15%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+BSCN	Guggenheim BulletShares 2023 Corporate Bond ETF	$21.07	+0.04 (0.19%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+BSCO	Guggenheim BulletShares 2024 Corporate Bond ETF	$21.04	+0.03 (0.14%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+BSCP	Guggenheim BulletShares 2025 Corporate Bond ETF	$20.81	+0.04 (0.19%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+BSCQ	Guggenheim BulletShares 2026 Corporate Bond ETF	$19.81	+0.01 (0.05%)	0.24%	0.24%	No	PDF	Corporate Bond	Trade
+CORP	PIMCO Investment Grade Corporate Bond Index Exchange-Traded Fund	$105.68	+0.16 (0.15%)	0.20%	0.20%	No	PDF	Corporate Bond	Trade
+CJNK	SPDR® BofA Merrill Lynch Crossover Corporate Bond ETF	$26.74	+0.04 (0.15%)	0.30%	0.40%	No	PDF	Corporate Bond	Trade
+EDOG	ALPS Emerging Sector Dividend Dogs ETF	$24.81	-0.13 (-0.52%)	0.60%	0.60%	No	PDF	Diversified Emerging Mkts	Trade
+EEB	Guggenheim BRIC ETF	$37.01	-0.41 (-1.10%)	0.64%	0.78%	No	PDF	Diversified Emerging Mkts	Trade
+FRN	Guggenheim Frontier Markets ETF	$14.63	-0.03 (-0.20%)	0.70%	1.17%	No	PDF	Diversified Emerging Mkts	Trade
+EWEM	Guggenheim MSCI Emerging Markets Equal Country Weight ETF	$33.66	-0.25 (-0.75%)	0.70%	0.75%	No	PDF	Diversified Emerging Mkts	Trade
+JPEM	JPMorgan Diversified Return Emerging Markets Equity ETF	$57.26	-0.45 (-0.78%)	0.51%	1.97%	No	PDF	Diversified Emerging Mkts	Trade
+PIE	PowerShares DWA Emerging Markets Momentum Portfolio	$19.57	-0.07 (-0.36%)	0.90%	0.90%	No	PDF	Diversified Emerging Mkts	Trade
+EELV	PowerShares S&P Emerging Markets Low Volatility Portfolio	$24.59	-0.14 (-0.57%)	0.29%	0.45%	No	PDF	Diversified Emerging Mkts	Trade
+SCHE	Schwab Emerging Markets Equity ETF™	$27.44	-0.22 (-0.80%)	0.13%	0.13%	ETF Select List	PDF	Diversified Emerging Mkts	Trade
+FNDE	Schwab Fundamental Emerging Markets Large Company Index ETF	$29.28	-0.22 (-0.75%)	0.39%	0.39%	No	PDF	Diversified Emerging Mkts	Trade
+QEMM	SPDR® MSCI Emerging Markets StrategicFactors ETF	$62.34	-0.42 (-0.67%)	0.30%	0.30%	No	PDF	Diversified Emerging Mkts	Trade
+EDIV	SPDR® S&P Emerging Markets Dividend ETF	$30.72	-0.09 (-0.29%)	0.49%	0.49%	No	PDF	Diversified Emerging Mkts	Trade
+EWX	SPDR® S&P Emerging Markets Small Cap ETF	$50.52	-0.24 (-0.47%)	0.65%	0.65%	No	PDF	Diversified Emerging Mkts	Trade
+DGRE	WisdomTree Emerging Markets Quality Dividend Growth Fund	$25.88	-0.21 (-0.80%)	0.32%	0.63%	No	PDF	Diversified Emerging Mkts	Trade
+DEMG	Xtrackers FTSE Emerging Comprehensive Factor ETF	$28.34	-0.18 (-0.63%)	0.50%	0.50%	No	PDF	Diversified Emerging Mkts	Trade
+DBEM	Xtrackers MSCI Emerging Markets Hedged Equity ETF	$23.91	-0.15 (-0.62%)	0.65%	0.65%	No	PDF	Diversified Emerging Mkts	Trade
+PCY	PowerShares Emerging Markets Sovereign Debt Portfolio	$29.62	-0.14 (-0.47%)	0.50%	0.50%	ETF Select List	PDF	Emerging Markets Bond	Trade
+DSUM	PowerShares Chinese Yuan Dim Sum Bond Portfolio	$23.12	-0.12 (-0.52%)	0.45%	0.45%	No	PDF	Emerging-Markets Local-Currency Bond	Trade
+ENFR	Alerian Energy Infrastructure ETF	$22.49	-0.26 (-1.16%)	0.65%	0.65%	No	PDF	Energy Limited Partnership	Trade
+ZMLP	Direxion Zacks MLP High Income Index Shares	$16.04	-0.22 (-1.32%)	2.41%	2.65%	No	PDF	Energy Limited Partnership	Trade
+MLPX	Global X MLP & Energy Infrastructure ETF	$13.10	-0.22 (-1.65%)	0.45%	0.45%	No	PDF	Energy Limited Partnership	Trade
+MLPA	Global X MLP ETF	$9.70	-0.15 (-1.52%)	0.47%	0.47%	No	PDF	Energy Limited Partnership	Trade
+RYE	Guggenheim S&P 500® Equal Weight Energy ETF	$53.05	-0.75 (-1.39%)	0.40%	0.40%	No	PDF	Equity Energy	Trade
+JHME	John Hancock Multifactor Energy ETF	$27.07	0.00 (0.00%)	0.50%	1.15%	No	PDF	Equity Energy	Trade
+PSAU	PowerShares Global Gold and Precious Metals Portfolio	$19.54	-0.07 (-0.36%)	0.75%	0.75%	No	PDF	Equity Precious Metals	Trade
+SGDM	Sprott Gold Miners ETF	$20.75	+0.03 (0.14%)	0.57%	0.57%	No	PDF	Equity Precious Metals	Trade
+HFXE	IQ 50 Percent Hedged FTSE Europe ETF	$20.00	-0.12 (-0.60%)	0.30%	0.46%	No	PDF	Europe Stock	Trade
+JPEH	JPMorgan Diversified Return Europe Currency Hedged ETF	$28.84	0.00 (0.00%)	0.49%	1.48%	No	PDF	Europe Stock	Trade
+JPEU	JPMorgan Diversified Return Europe Equity ETF	$60.86	-0.12 (-0.19%)	0.43%	1.14%	No	PDF	Europe Stock	Trade
+FEU	SPDR® STOXX Europe 50 ETF	$35.44	-0.11 (-0.32%)	0.29%	0.29%	No	PDF	Europe Stock	Trade
+EUSC	WisdomTree Europe Hedged SmallCap Equity Fund	$30.77	-0.11 (-0.36%)	0.58%	0.58%	No	PDF	Europe Stock	Trade
+DBEZ	Xtrackers MSCI Eurozone Hedged Equity ETF	$30.67	-0.06 (-0.18%)	0.45%	0.45%	No	PDF	Europe Stock	Trade
+RYF	Guggenheim S&P 500® Equal Weight Financial ETF	$42.17	-0.10 (-0.24%)	0.40%	0.40%	No	PDF	Financial	Trade
+JHMF	John Hancock Multifactor Financials ETF	$35.15	-0.12 (-0.34%)	0.50%	0.99%	No	PDF	Financial	Trade
+HFXI	IQ 50 Percent Hedged FTSE International ETF	$21.19	-0.07 (-0.33%)	0.20%	0.36%	No	PDF	Foreign Large Blend	Trade
+JHMD	John Hancock Multifactor Developed International ETF	$29.82	-0.08 (-0.27%)	0.45%	0.68%	No	PDF	Foreign Large Blend	Trade
+JPIH	JPMorgan Diversified Return International Currency Hedged ETF	$29.87	-0.05 (-0.17%)	0.49%	1.52%	No	PDF	Foreign Large Blend	Trade
+JPIN	JPMorgan Diversified Return International Equity ETF	$58.93	-0.09 (-0.15%)	0.43%	0.75%	No	PDF	Foreign Large Blend	Trade
+IDLV	PowerShares S&P International Developed Low Volatility Portfolio	$33.34	-0.04 (-0.12%)	0.25%	0.35%	ETF Select List	PDF	Foreign Large Blend	Trade
+SCHF	Schwab International Equity ETF™	$33.84	-0.07 (-0.21%)	0.06%	0.06%	ETF Select List	PDF	Foreign Large Blend	Trade
+CWI	SPDR® MSCI ACWI ex-US ETF	$38.28	-0.13 (-0.34%)	0.30%	0.34%	No	PDF	Foreign Large Blend	Trade
+QEFA	SPDR® MSCI EAFE StrategicFactors ETF	$63.82	-0.21 (-0.33%)	0.30%	0.30%	No	PDF	Foreign Large Blend	Trade
+DEEF	Xtrackers FTSE Developed ex US Comprehensive Factor ETF	$29.08	-0.02 (-0.07%)	0.36%	0.36%	No	PDF	Foreign Large Blend	Trade
+DBAW	Xtrackers MSCI All World ex U.S. Hedged Equity ETF	$27.72	-0.09 (-0.32%)	0.40%	0.40%	No	PDF	Foreign Large Blend	Trade
+DBEF	Xtrackers MSCI EAFE Hedged Equity ETF	$31.64	-0.02 (-0.06%)	0.35%	0.35%	No	PDF	Foreign Large Blend	Trade
+PIZ	PowerShares DWA Developed Markets Momentum Portfolio	$27.09	+0.01 (0.02%)	0.81%	0.81%	No	PDF	Foreign Large Growth	Trade
+DNL	WisdomTree Global ex-U.S. Quality Dividend Growth Fund	$57.48	-0.08 (-0.14%)	0.58%	0.58%	No	PDF	Foreign Large Growth	Trade
+IHDG	WisdomTree International Hedged Quality Dividend Growth Fund	$31.11	+0.01 (0.03%)	0.58%	0.58%	No	PDF	Foreign Large Growth	Trade
+IDOG	ALPS International Sector Dividend Dogs ETF	$28.41	-0.05 (-0.18%)	0.50%	0.50%	No	PDF	Foreign Large Value	Trade
+HGI	Guggenheim International Multi-Asset Income ETF	$17.10	-0.03 (-0.15%)	0.85%	1.52%	No	PDF	Foreign Large Value	Trade
+PID	PowerShares International Dividend Achievers Portfolio	$16.10	-0.06 (-0.37%)	0.56%	0.56%	No	PDF	Foreign Large Value	Trade
+FNDF	Schwab Fundamental International Large Company Index ETF	$30.13	-0.07 (-0.23%)	0.25%	0.25%	ETF Select List	PDF	Foreign Large Value	Trade
+DWX	SPDR® S&P International Dividend ETF	$40.43	-0.22 (-0.54%)	0.45%	0.45%	No	PDF	Foreign Large Value	Trade
+DDWM	WisdomTree Dynamic Currency Hedged International Equity Fund	$30.02	-0.13 (-0.43%)	0.35%	0.40%	No	PDF	Foreign Large Value	Trade
+HDAW	Xtrackers MSCI All World ex US High Dividend Yield Hedged Equity ETF	$26.49	-0.09 (-0.34%)	0.45%	0.45%	No	PDF	Foreign Large Value	Trade
+FNDC	Schwab Fundamental International Small Company Index ETF	$35.15	0.00 (0.00%)	0.39%	0.39%	No	PDF	Foreign Small/Mid Blend	Trade
+SCHC	Schwab International Small-Cap Equity ETF™	$35.95	-0.08 (-0.22%)	0.12%	0.12%	ETF Select List	PDF	Foreign Small/Mid Blend	Trade
+RWO	SPDR® Dow Jones Global Real Estate ETF	$47.69	-0.28 (-0.58%)	0.50%	0.50%	No	PDF	Global Real Estate	Trade
+RWX	SPDR® Dow Jones International Real Estate ETF	$38.30	-0.34 (-0.88%)	0.59%	0.59%	No	PDF	Global Real Estate	Trade
+RYH	Guggenheim S&P 500® Equal Weight Health Care ETF	$179.30	-0.34 (-0.19%)	0.40%	0.40%	No	PDF	Health	Trade
+JHMH	John Hancock Multifactor Health Care ETF	$30.97	-0.10 (-0.32%)	0.50%	1.06%	No	PDF	Health	Trade
+BSJH	Guggenheim BulletShares 2017 High Yield Corporate Bond ETF	$25.70	0.00 (0.02%)	0.44%	0.44%	No	PDF	High Yield Bond	Trade
+BSJI	Guggenheim BulletShares 2018 High Yield Corporate Bond ETF	$25.31	+0.03 (0.12%)	0.44%	0.44%	No	PDF	High Yield Bond	Trade
+BSJJ	Guggenheim BulletShares 2019 High Yield Corporate Bond ETF	$24.66	-0.04 (-0.16%)	0.44%	0.44%	No	PDF	High Yield Bond	Trade
+BSJK	Guggenheim BulletShares 2020 High Yield Corporate Bond ETF	$24.93	+0.02 (0.08%)	0.44%	0.44%	No	PDF	High Yield Bond	Trade
+BSJL	Guggenheim BulletShares 2021 High Yield Corporate Bond ETF	$25.24	-0.03 (-0.12%)	0.44%	0.44%	No	PDF	High Yield Bond	Trade
+BSJM	Guggenheim BulletShares 2022 High Yield Corporate Bond ETF	$25.41	+0.02 (0.08%)	0.44%	0.44%	No	PDF	High Yield Bond	Trade
+BSJN	Guggenheim BulletShares 2023 High Yield Corporate Bond ETF	$26.87	0.00 (0.00%)	0.44%	0.44%	No	PDF	High Yield Bond	Trade
+BSJO	Guggenheim BulletShares 2024 High Yield Corporate Bond ETF	$26.02	+0.01 (0.05%)	0.42%	0.42%	No	PDF	High Yield Bond	Trade
+HYLV	IQ S&P High Yield Low Volatility Bond ETF	$25.49	-0.03 (-0.12%)	0.40%	0.41%	No	PDF	High Yield Bond	Trade
+HYS	PIMCO 0-5 Year High Yield Corporate Bond Index Exchange-Traded Fund	$101.56	-0.10 (-0.10%)	0.55%	0.55%	No	PDF	High Yield Bond	Trade
+PHB	PowerShares Fundamental High Yield Corporate Bond Portfolio	$19.06	-0.06 (-0.31%)	0.50%	0.50%	No	PDF	High Yield Bond	Trade
+PGHY	PowerShares Global Short Term High Yield Bond Portfolio	$24.26	-0.05 (-0.21%)	0.35%	0.35%	No	PDF	High Yield Bond	Trade
+HYLB	Xtrackers USD High Yield Corporate Bond ETF	$51.29	0.00 (0.01%)	0.25%	0.25%	ETF Select List	PDF	High Yield Bond	Trade
+HYMB	SPDR® Nuveen S&P High Yield Municipal Bond ETF	$56.00	+0.07 (0.13%)	0.45%	0.50%	No	PDF	High Yield Muni	Trade
+PIN	PowerShares India Portfolio	$25.00	+0.07 (0.28%)	0.80%	0.80%	No	PDF	India Equity	Trade
+RGI	Guggenheim S&P 500® Equal Weight Industrials ETF	$114.92	-0.38 (-0.33%)	0.40%	0.40%	No	PDF	Industrials	Trade
+JHMI	John Hancock Multifactor Industrials ETF	$33.90	-0.06 (-0.18%)	0.50%	1.12%	No	PDF	Industrials	Trade
+SCHP	Schwab U.S. TIPS ETF™	$55.17	+0.07 (0.13%)	0.05%	0.05%	ETF Select List	PDF	Inflation-Protected Bond	Trade
+GHII	Guggenheim S&P High Income Infrastructure ETF	$28.41	-0.32 (-1.11%)	0.45%	0.45%	No	PDF	Infrastructure	Trade
+GII	SPDR® S&P Global Infrastructure ETF	$52.28	-0.34 (-0.65%)	0.40%	0.40%	No	PDF	Infrastructure	Trade
+SCHR	Schwab Intermediate-Term U.S. Treasury ETF™	$53.77	+0.05 (0.09%)	0.06%	0.06%	ETF Select List	PDF	Intermediate Government	Trade
+AGGE	IQ Enhanced Core Bond U.S. ETF	$19.70	+0.04 (0.20%)	0.32%	0.37%	No	PDF	Intermediate-Term Bond	Trade
+AGGP	IQ Enhanced Core Plus Bond U.S. ETF	$20.10	+0.01 (0.05%)	0.39%	0.44%	No	PDF	Intermediate-Term Bond	Trade
+SCHZ	Schwab U.S. Aggregate Bond ETF™	$52.23	+0.03 (0.06%)	0.04%	0.04%	ETF Select List	PDF	Intermediate-Term Bond	Trade
+AGGY	WisdomTree Barclays Yield Enhanced U.S. Aggregate Bond Fund	$50.78	+0.06 (0.12%)	0.12%	0.20%	No	PDF	Intermediate-Term Bond	Trade
+HFXJ	IQ 50 Percent Hedged FTSE Japan ETF	$21.78	+0.18 (0.83%)	0.30%	0.46%	No	PDF	Japan Stock	Trade
+QJPN	SPDR® MSCI Japan StrategicFactors ETF	$76.58	0.00 (0.00%)	0.30%	0.30%	No	PDF	Japan Stock	Trade
+JHDG	WisdomTree Japan Hedged Quality Dividend Growth Fund	$28.53	+0.16 (0.56%)	0.43%	0.48%	No	PDF	Japan Stock	Trade
+DXJS	WisdomTree Japan Hedged SmallCap Equity Fund	$43.51	+0.04 (0.09%)	0.58%	0.58%	No	PDF	Japan Stock	Trade
+JPN	Xtrackers Japan JPX-Nikkei 400 Equity ETF	$28.18	+0.08 (0.28%)	0.40%	0.40%	No	PDF	Japan Stock	Trade
+KRMA	Global X Conscious Companies ETF	$18.62	-0.02 (-0.11%)	0.43%	0.43%	No	PDF	Large Blend	Trade
+RSP	Guggenheim S&P 500® Equal Weight ETF	$97.08	-0.33 (-0.34%)	0.20%	0.20%	ETF Select List	PDF	Large Blend	Trade
+XLG	Guggenheim S&P 500® Top 50 ETF	$181.04	-0.67 (-0.37%)	0.20%	0.20%	No	PDF	Large Blend	Trade
+JHML	John Hancock Multifactor Large Cap ETF	$33.48	-0.12 (-0.36%)	0.35%	0.45%	No	PDF	Large Blend	Trade
+JPUS	JPMorgan Diversified Return U.S. Equity ETF	$68.68	-0.13 (-0.18%)	0.19%	0.90%	No	PDF	Large Blend	Trade
+ESGL	Oppenheimer ESG Revenue ETF	$29.58	+0.10 (0.35%)	0.40%	0.40%	No	PDF	Large Blend	Trade
+PKW	PowerShares Buyback Achievers Portfolio	$56.54	-0.47 (-0.82%)	0.63%	0.63%	No	PDF	Large Blend	Trade
+SPHB	PowerShares S&P 500 High Beta Portfolio	$40.28	-0.24 (-0.59%)	0.25%	0.25%	No	PDF	Large Blend	Trade
+SCHK	Schwab 1000 Index ETF	$25.16	-0.09 (-0.36%)	0.05%	0.05%	No	PDF	Large Blend	Trade
+SCHB	Schwab U.S. Broad Market ETF™	$62.00	-0.24 (-0.39%)	0.03%	0.03%	ETF Select List	PDF	Large Blend	Trade
+SCHX	Schwab U.S. Large-Cap ETF™	$61.20	-0.24 (-0.39%)	0.03%	0.03%	ETF Select List	PDF	Large Blend	Trade
+QUS	SPDR® MSCI USA StrategicFactors ETF	$74.17	-0.11 (-0.15%)	0.15%	0.15%	No	PDF	Large Blend	Trade
+SPYX	SPDR® S&P 500 Fossil Fuel Reserves Free ETF	$62.20	-0.20 (-0.31%)	0.20%	0.25%	No	PDF	Large Blend	Trade
+SHE	SPDR® SSGA Gender Diversity Index ETF	$71.08	-0.21 (-0.30%)	0.20%	0.20%	No	PDF	Large Blend	Trade
+DGRW	WisdomTree U.S. Quality Dividend Growth Fund	$39.26	-0.05 (-0.13%)	0.28%	0.28%	No	PDF	Large Blend	Trade
+QQQE	Direxion NASDAQ-100® Equal Weighted Index Shares	$41.87	-0.21 (-0.50%)	0.35%	0.55%	No	PDF	Large Growth	Trade
+RPG	Guggenheim S&P 500® Pure Growth ETF	$102.56	-0.42 (-0.41%)	0.35%	0.35%	No	PDF	Large Growth	Trade
+SCHG	Schwab U.S. Large-Cap Growth ETF™	$67.06	-0.31 (-0.46%)	0.04%	0.04%	ETF Select List	PDF	Large Growth	Trade
+SYG	SPDR® MFS Systematic Growth Equity ETF	$76.66	-0.25 (-0.32%)	0.60%	0.60%	No	PDF	Large Growth	Trade
+SDOG	ALPS Sector Dividend Dogs ETF	$44.95	-0.17 (-0.38%)	0.40%	0.40%	No	PDF	Large Value	Trade
+DEF	Guggenheim Defensive Equity ETF	$45.15	+0.01 (0.03%)	0.60%	0.61%	No	PDF	Large Value	Trade
+RPV	Guggenheim S&P 500® Pure Value ETF	$62.87	-0.30 (-0.47%)	0.35%	0.35%	No	PDF	Large Value	Trade
+RWL	Oppenheimer Large Cap Revenue ETF	$48.64	-0.12 (-0.25%)	0.39%	0.39%	No	PDF	Large Value	Trade
+RDIV	Oppenheimer Ultra Dividend Revenue ETF	$34.99	+0.05 (0.15%)	0.39%	0.39%	No	PDF	Large Value	Trade
+SPLV	PowerShares S&P 500 Low Volatility Portfolio	$46.74	-0.18 (-0.38%)	0.25%	0.25%	ETF Select List	PDF	Large Value	Trade
+FNDB	Schwab Fundamental U.S. Broad Market Index ETF	$35.55	-0.11 (-0.32%)	0.25%	0.25%	No	PDF	Large Value	Trade
+FNDX	Schwab Fundamental U.S. Large Company Index ETF	$35.76	-0.06 (-0.17%)	0.25%	0.25%	ETF Select List	PDF	Large Value	Trade
+SCHD	Schwab U.S. Dividend Equity ETF™	$48.50	+0.04 (0.08%)	0.07%	0.07%	ETF Select List	PDF	Large Value	Trade
+SCHV	Schwab U.S. Large-Cap Value ETF™	$53.03	-0.12 (-0.23%)	0.04%	0.04%	ETF Select List	PDF	Large Value	Trade
+SYE	SPDR® MFS Systematic Core Equity ETF	$72.72	0.00 (0.00%)	0.60%	0.60%	No	PDF	Large Value	Trade
+SYV	SPDR® MFS Systematic Value Equity ETF	$63.69	-0.06 (-0.09%)	0.60%	0.60%	No	PDF	Large Value	Trade
+SPYD	SPDR® Portfolio S&P 500 High Dividend ETF	$36.70	-0.03 (-0.08%)	0.07%	0.07%	No	PDF	Large Value	Trade
+ZROZ	PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund	$115.38	+0.13 (0.11%)	0.15%	0.15%	No	PDF	Long Government	Trade
+SPTL	SPDR® Portfolio Long Term Treasury ETF	$35.83	+0.06 (0.17%)	0.06%	0.06%	ETF Select List	PDF	Long Government	Trade
+DYLS	WisdomTree Dynamic Long/Short U.S. Equity Fund	$31.16	-0.13 (-0.42%)	0.48%	0.53%	No	PDF	Long-Short Equity	Trade
+DWFI	SPDR® Dorsey Wright Fixed Income Allocation ETF	$25.62	-0.04 (-0.17%)	0.60%	0.60%	No	PDF	Long-Term Bond	Trade
+WDTI	WisdomTree Managed Futures Strategy Fund	$39.00	0.00 (0.00%)	0.65%	0.75%	No	PDF	Managed Futures	Trade
+QMN	IQ Hedge Market Neutral Tracker ETF	$25.57	0.00 (-0.02%)	0.95%	0.95%	No	PDF	Market Neutral	Trade
+MNA	IQ Merger Arbitrage ETF	$30.87	-0.06 (-0.19%)	0.77%	0.77%	No	PDF	Market Neutral	Trade
+KNOW	Direxion All Cap Insider Sentiment Shares	$41.58	-0.23 (-0.55%)	0.59%	0.72%	No	PDF	Mid-Cap Blend	Trade
+JHMM	John Hancock Multifactor Mid Cap ETF	$32.90	-0.14 (-0.42%)	0.45%	0.61%	No	PDF	Mid-Cap Blend	Trade
+JPME	JPMorgan Diversified Return U.S. Mid Cap Equity ETF	$62.09	-0.15 (-0.24%)	0.24%	1.02%	No	PDF	Mid-Cap Blend	Trade
+SCHM	Schwab U.S. Mid-Cap ETF™	$50.95	-0.22 (-0.43%)	0.05%	0.05%	ETF Select List	PDF	Mid-Cap Blend	Trade
+SPMD	SPDR® Portfolio Mid Cap ETF	$32.39	-0.15 (-0.47%)	0.05%	0.05%	No	PDF	Mid-Cap Blend	Trade
+ONEV	SPDR® Russell 1000 Low Volatility Focus ETF	$73.04	+0.04 (0.05%)	0.20%	0.20%	No	PDF	Mid-Cap Blend	Trade
+ONEO	SPDR® Russell 1000 Momentum ETF	$73.95	-0.25 (-0.34%)	0.20%	0.20%	No	PDF	Mid-Cap Blend	Trade
+DEUS	Xtrackers Russell 1000 Comprehensive Factor ETF	$30.92	-0.01 (-0.05%)	0.19%	0.19%	No	PDF	Mid-Cap Blend	Trade
+RFG	Guggenheim S&P MidCap 400® Pure Growth ETF	$148.29	-0.51 (-0.34%)	0.35%	0.35%	No	PDF	Mid-Cap Growth	Trade
+PDP	PowerShares DWA Momentum Portfolio	$50.13	-0.07 (-0.14%)	0.63%	0.63%	No	PDF	Mid-Cap Growth	Trade
+MDYG	SPDR® S&P 400 Mid Cap Growth ETF	$150.94	-0.58 (-0.38%)	0.15%	0.15%	No	PDF	Mid-Cap Growth	Trade
+RWK	Oppenheimer Mid Cap Revenue ETF	$57.97	-0.31 (-0.53%)	0.39%	0.39%	No	PDF	Mid-Cap Value	Trade
+ONEY	SPDR® Russell 1000 Yield ETF	$72.10	0.00 (0.00%)	0.20%	0.20%	No	PDF	Mid-Cap Value	Trade
+MDYV	SPDR® S&P 400 Mid Cap Value ETF	$99.83	-0.55 (-0.55%)	0.15%	0.15%	No	PDF	Mid-Cap Value	Trade
+QCAN	SPDR® MSCI Canada StrategicFactors ETF	$60.21	-0.08 (-0.13%)	0.30%	0.30%	No	PDF	Miscellaneous Region	Trade
+QDEU	SPDR® MSCI Germany StrategicFactors ETF	$63.57	-0.25 (-0.40%)	0.30%	0.30%	No	PDF	Miscellaneous Region	Trade
+QGBR	SPDR® MSCI United Kingdom StrategicFactors ETF	$53.05	-0.01 (-0.01%)	0.30%	0.30%	No	PDF	Miscellaneous Region	Trade
+DXGE	WisdomTree Germany Hedged Equity Fund	$31.84	-0.04 (-0.13%)	0.48%	0.48%	No	PDF	Miscellaneous Region	Trade
+BOTZ	Global X Robotics & Artificial Intelligence ETF	$23.39	+0.29 (1.26%)	0.68%	0.68%	No	PDF	Miscellaneous Sector	Trade
+CGW	Guggenheim S&P Global Water Index ETF	$35.11	-0.12 (-0.34%)	0.64%	0.64%	No	PDF	Miscellaneous Sector	Trade
+QAI	IQ Hedge Multi-Strategy Tracker ETF	$30.08	-0.01 (-0.03%)	0.98%	0.98%	No	PDF	Multialternative	Trade
+LALT	PowerShares Multi-Strategy Alternative Portfolio	$21.15	-0.23 (-1.06%)	0.98%	1.04%	No	PDF	Multialternative	Trade
+USDU	WisdomTree Bloomberg U.S. Dollar Bullish Fund	$26.13	+0.02 (0.08%)	0.50%	0.50%	No	PDF	Multicurrency	Trade
+TFI	SPDR® Nuveen Bloomberg Barclays Municipal Bond ETF	$49.14	-0.01 (-0.02%)	0.23%	0.30%	ETF Select List	PDF	Muni National Long	Trade
+RVNU	Xtrackers Municipal Infrastructure Revenue Bond ETF	$27.01	-0.01 (-0.04%)	0.30%	0.30%	No	PDF	Muni National Long	Trade
+SHM	SPDR® Nuveen Bloomberg Barclays Short Term Municipal Bond ETF	$48.64	+0.02 (0.04%)	0.20%	0.20%	ETF Select List	PDF	Muni National Short	Trade
+RTM	Guggenheim S&P 500® Equal Weight Materials ETF	$107.07	-0.39 (-0.36%)	0.40%	0.40%	No	PDF	Natural Resources	Trade
+GRES	IQ Global Resources ETF	$27.22	-0.11 (-0.40%)	0.77%	0.77%	No	PDF	Natural Resources	Trade
+JHMA	John Hancock Multifactor Materials ETF	$34.09	-0.07 (-0.22%)	0.50%	1.15%	No	PDF	Natural Resources	Trade
+NANR	SPDR S&P® North American Natural Resources ETF	$33.96	-0.12 (-0.35%)	0.35%	0.35%	No	PDF	Natural Resources	Trade
+GNR	SPDR® S&P Global Natural Resources ETF	$46.74	0.00 (0.00%)	0.40%	0.40%	No	PDF	Natural Resources	Trade
+AGZD	WisdomTree Barclays Interest Rate Hedged U.S. Aggregate Bond Fund	$48.25	+0.14 (0.29%)	0.23%	0.23%	No	PDF	Nontraditional Bond	Trade
+HYZD	WisdomTree Interest Rate Hedged High Yield Bond Fund	$24.24	-0.05 (-0.19%)	0.43%	0.43%	No	PDF	Nontraditional Bond	Trade
+PUTW	WisdomTree CBOE S&P 500 PutWrite Strategy Fund	$29.54	0.00 (0.00%)	0.38%	0.44%	No	PDF	Option Writing	Trade
+PAF	PowerShares FTSE RAFI Asia Pacific ex-Japan Portfolio	$58.09	-0.21 (-0.36%)	0.49%	0.49%	No	PDF	Pacific/Asia ex-Japan Stk	Trade
+GMF	SPDR® S&P Emerging Asia Pacific ETF	$102.15	-0.45 (-0.44%)	0.49%	0.49%	No	PDF	Pacific/Asia ex-Japan Stk	Trade
+PGX	PowerShares Preferred Portfolio	$15.02	-0.04 (-0.27%)	0.50%	0.50%	No	PDF	Preferred Stock	Trade
+VRP	PowerShares Variable Rate Preferred Portfolio	$26.09	-0.02 (-0.08%)	0.50%	0.50%	No	PDF	Preferred Stock	Trade
+PSK	SPDR® Wells Fargo Preferred Stock ETF	$44.84	+0.15 (0.34%)	0.45%	0.45%	ETF Select List	PDF	Preferred Stock	Trade
+EWRE	Guggenheim S&P 500® Equal Weight Real Estate ETF	$27.51	-0.05 (-0.20%)	0.40%	0.40%	No	PDF	Real Estate	Trade
+SCHH	Schwab U.S. REIT ETF™	$41.26	-0.09 (-0.22%)	0.07%	0.07%	ETF Select List	PDF	Real Estate	Trade
+SCHO	Schwab Short-Term U.S. Treasury ETF™	$50.31	+0.01 (0.02%)	0.06%	0.06%	ETF Select List	PDF	Short Government	Trade
+BSCJ	Guggenheim BulletShares 2019 Corporate Bond ETF	$21.23	0.00 (-0.02%)	0.24%	0.24%	No	PDF	Short-Term Bond	Trade
+FXA	CurrencyShares® Australian Dollar Trust	$78.14	-0.05 (-0.06%)	0.40%	0.40%	No	PDF	Single Currency	Trade
+FXB	CurrencyShares® British Pound Sterling Trust	$128.39	+0.16 (0.12%)	0.40%	0.40%	No	PDF	Single Currency	Trade
+FXC	CurrencyShares® Canadian Dollar Trust	$78.02	-0.15 (-0.19%)	0.40%	0.40%	No	PDF	Single Currency	Trade
+FXE	CurrencyShares® Euro Trust	$113.36	-0.26 (-0.23%)	0.40%	0.40%	No	PDF	Single Currency	Trade
+FXY	CurrencyShares® Japanese Yen Trust	$84.75	+0.14 (0.17%)	0.40%	0.40%	No	PDF	Single Currency	Trade
+FXS	CurrencyShares® Swedish Krona Trust	$116.51	-0.46 (-0.40%)	0.40%	0.40%	No	PDF	Single Currency	Trade
+FXF	CurrencyShares® Swiss Franc Trust	$96.00	0.00 (0.00%)	0.40%	0.40%	No	PDF	Single Currency	Trade
+EWSC	Guggenheim S&P SmallCap 600® Equal Weight ETF	$52.77	-0.25 (-0.48%)	0.41%	0.41%	No	PDF	Small Blend	Trade
+JPSE	JPMorgan Diversified Return U.S. Small Cap Equity ETF	$28.94	-0.15 (-0.52%)	0.29%	0.59%	No	PDF	Small Blend	Trade
+RWJ	Oppenheimer Small Cap Revenue ETF	$67.70	-0.35 (-0.51%)	0.39%	0.39%	No	PDF	Small Blend	Trade
+FNDA	Schwab Fundamental U.S. Small Company Index ETF	$36.51	-0.22 (-0.60%)	0.25%	0.25%	ETF Select List	PDF	Small Blend	Trade
+SCHA	Schwab U.S. Small-Cap ETF™	$67.76	-0.46 (-0.67%)	0.05%	0.05%	ETF Select List	PDF	Small Blend	Trade
+WMCR	Wilshire Micro-Cap ETF	$33.76	-0.20 (-0.60%)	0.59%	0.59%	No	PDF	Small Blend	Trade
+DGRS	WisdomTree U.S. SmallCap Quality Dividend Growth Fund	$34.78	-0.29 (-0.83%)	0.38%	0.38%	No	PDF	Small Blend	Trade
+RZG	Guggenheim S&P SmallCap 600® Pure Growth ETF	$110.10	-0.58 (-0.52%)	0.35%	0.35%	No	PDF	Small Growth	Trade
+DWAS	PowerShares DWA SmallCap Momentum Portfolio	$47.71	-0.39 (-0.81%)	0.60%	0.60%	No	PDF	Small Growth	Trade
+SLYG	SPDR® S&P 600 Small Cap Growth ETF	$229.45	-1.42 (-0.62%)	0.15%	0.15%	No	PDF	Small Growth	Trade
+RFV	Guggenheim S&P MidCap 400® Pure Value ETF	$65.29	-0.27 (-0.42%)	0.35%	0.35%	No	PDF	Small Value	Trade
+RZV	Guggenheim S&P SmallCap 600® Pure Value ETF	$70.20	-0.24 (-0.34%)	0.35%	0.35%	No	PDF	Small Value	Trade
+SLYV	SPDR® S&P 600 Small Cap Value ETF	$127.08	-0.56 (-0.44%)	0.15%	0.15%	No	PDF	Small Value	Trade
+RYT	Guggenheim S&P 500® Equal Weight Technology ETF	$140.51	+0.14 (0.10%)	0.40%	0.40%	No	PDF	Technology	Trade
+JHMT	John Hancock Multifactor Technology ETF	$39.75	-0.16 (-0.40%)	0.50%	1.00%	No	PDF	Technology	Trade
+FLRN	SPDR® Bloomberg Barclays Investment Grade Floating Rate ETF	$30.75	+0.01 (0.03%)	0.15%	0.15%	No	PDF	Ultrashort Bond	Trade
+RYU	Guggenheim S&P 500® Equal Weight Utilities ETF	$88.80	+0.08 (0.09%)	0.40%	0.40%	No	PDF	Utilities	Trade
+JHMU	John Hancock Multifactor Utilities ETF	$28.45	0.00 (0.00%)	0.50%	1.18%	No	PDF	Utilities	Trade
+IBND	SPDR® Bloomberg Barclays International Corporate Bond ETF	$34.51	-0.01 (-0.04%)	0.50%	0.50%	No	PDF	World Bond	Trade
+BWX	SPDR® Bloomberg Barclays International Treasury Bond ETF	$27.96	0.00 (0.00%)	0.50%	0.50%	No	PDF	World Bond	Trade
+BWZ	SPDR® Bloomberg Barclays Short Term International Treasury Bond ETF	$31.76	0.00 (0.00%)	0.35%	0.35%	No	PDF	World Bond	Trade
+JPGE	JPMorgan Diversified Return Global Equity ETF	$60.82	-0.10 (-0.16%)	0.38%	0.93%	No	PDF	World Large Stock	Trade
+ESGF	Oppenheimer Global ESG Revenue ETF	$30.45	0.00 (0.00%)	0.45%	0.45%	No	PDF	World Large Stock	Trade
+ACIM	SPDR® MSCI ACWI IMI ETF	$76.57	-0.02 (-0.02%)	0.25%	0.25%	No	PDF	World Large Stock	Trade
+LOWC	SPDR® MSCI ACWI Low Carbon Target ETF	$87.63	-0.22 (-0.25%)	0.20%	0.30%	No	PDF	World Large Stock	Trade
+WDIV	SPDR® S&P Global Dividend ETF	$68.28	-0.26 (-0.38%)	0.40%	0.40%	No	PDF	World Large Stock
